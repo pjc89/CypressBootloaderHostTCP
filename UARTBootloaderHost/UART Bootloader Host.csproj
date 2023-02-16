@@ -175,7 +175,7 @@
     <WCFMetadata Include="Service References\" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="..\..\BootLoad_Utils_dll\32bit\BootLoad_Utils.dll">
+    <Content Include="..\BootLoad_Utils_dll\32bit\BootLoad_Utils.dll">
       <Link>BootLoad_Utils.dll</Link>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
